@@ -114,7 +114,7 @@
 	<String Key="InGameUI009">CUSTOM</String>
 	<String Key="InGameUI010">ZhIVOTNIE</String>
 	<String Key="InGameUI011">kanoniri</String>
-	<String Key="InGameUI012">VASh CREW</String>
+	<String Key="InGameUI012">Komanda</String>
 	<String Key="InGameUI013">KARTA MIRA</String>
 	<String Key="InGameUI014">KORABLY USTANOVKI</String>
 	<String Key="InGameUI015">NASTROYKI</String>
@@ -138,7 +138,7 @@
 	<String Key="InGameFlagEditor01">Ochistity</String>
 	<String Key="InGameFlagEditor02">Vosstanovlenie znacheniy po umolchaniyu</String>
 	<String Key="InGameTooltips01">DRAG DEYSTVIYa:</String>
-	<String Key="InGameTooltips02">PORYaDOK CREW lokeyneshu</String>
+	<String Key="InGameTooltips02">Zakazat' komandu na meste</String>
 	<String Key="InGameTooltips03">KAZhDIY GO TAM!</String>
 	<String Key="InGameTooltips04">VIBERITE TARGET</String>
 	<String Key="InGameTooltips05">KTO VI HOTITE UBITY?</String>
@@ -1239,7 +1239,7 @@
 	<String Key="Misc0024">KAK OTKRITY sokrovishtnitsa</String>
 	<String Key="Misc0025">Rookie SOVETI</String>
 	<String Key="Misc0026">ChTO natalkivaetsya Dolzhen li Nachinayushtim vzyaty na sebya?</String>
-	<String Key="Misc0028">KAK Nanimaty CREW?</String>
+	<String Key="Misc0028">Kak nanimat' komandu?</String>
 	<String Key="Misc0029">UPRAVLENIE ORUZhIE / OBNOVLENIE</String>
 	<String Key="Misc0030">SUDOSTROENIE</String>
 	<String Key="Misc0031">PIRATSKIY STAT eKRAN OBAYaSNITY</String>
@@ -1719,7 +1719,7 @@
 
 		Esty dva razlichnih vidov oruzhiya v igre, blizhnego i dalynego boya. Oruzhie dalynego boya dolzhno bity oborudovano v varyirovalisy slot
 
-		v VAShEM ekrane vibora CREW (Vibor pirat), vi mozhete nazhaty na varyirovalisy slot ORUZhIYa i oborudovaty punkt, kotoriy
+		v VAShEM ekrane vibora komandi, vi mozhete nazhaty na varyirovalisy slot ORUZhIYa i oborudovaty punkt, kotoriy
 
 		zatem ispolyzuetsya avtomaticheski v diapazone do zakritiya v rukopashnih rasstoyaniya. Horoshaya taktika zaklyuchaetsya v osnashtenii skali, kak oni delayut
 
